@@ -74,4 +74,3 @@ Conduct a detailed analysis of the Parking Contraventions dataset to uncover act
 
 ---
 
-Follow GPT creator profile on LinkedIn [here](https://linkedin.com/in/khanukov/) for the latest updates and insights. Visit [AskYourDatabase.com](https://www.askyourdatabase.com/?utm_source=sqlexpert) for more SQL support!
